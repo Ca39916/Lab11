@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32600f0f-a040-404e-8870-1614cadb4eae": {
+      "ProjectGuid": "32600f0f-a040-404e-8870-1614cadb4eae",
+      "DisplayName": "DemoLinq",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

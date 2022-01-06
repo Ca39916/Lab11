@@ -1,0 +1,32 @@
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.exe
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.deps.json
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.runtimeconfig.json
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.runtimeconfig.dev.json
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.dll
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\ref\DemoLinq.dll
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.pdb
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.AssemblyInfo.cs
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.dll
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\ref\DemoLinq.dll
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.pdb
+C:\Users\diego\Desktop\ARRUMAR DESKTOP\FTEC\FTEC\ALPRO\ALGORITMOS CYBERTRON\000 - TRILHA DEV C# CYBERTRON\TRILHA DEV C#\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.genruntimeconfig.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.exe
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.deps.json
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.runtimeconfig.json
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.runtimeconfig.dev.json
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\ref\DemoLinq.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\bin\Debug\net5.0\DemoLinq.pdb
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.csproj.AssemblyReference.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.AssemblyInfo.cs
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\ref\DemoLinq.dll
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.pdb
+C:\Users\csalinor\OneDrive - NTT DATA EMEAL\Documentos\Estudos\TRILHA DEV C\DemoLinq\DemoLinq\obj\Debug\net5.0\DemoLinq.genruntimeconfig.cache

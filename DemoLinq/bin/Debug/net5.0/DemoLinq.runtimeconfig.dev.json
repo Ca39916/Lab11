@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\csalinor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\csalinor\\.nuget\\packages"
+    ]
+  }
+}
